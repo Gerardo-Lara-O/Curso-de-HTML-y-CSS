@@ -26,3 +26,26 @@
     background-image: url("./estilos.css");
     background-position: center center;
 }
+
+.ancho{
+    background-color: bisque;
+    width: 100px;
+}
+
+/* .alto{
+    background-color: aqua;
+    height: 500px;
+
+}
+ */
+
+/* Tarjeta */
+
+.tarjeta{
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    /* border-top: none; */
+    padding: 10px;
+    margin: 10px;
+}
