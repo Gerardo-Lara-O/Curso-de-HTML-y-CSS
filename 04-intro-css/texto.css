@@ -1,0 +1,9 @@
+/* Estilos */
+ @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,600;1,800&display=swap');
+
+html{
+    font-family: 'Source Code Pro', monospace;
+    font-size: larger;
+    font-weight: 800;  
+    font-style: italic;
+}
