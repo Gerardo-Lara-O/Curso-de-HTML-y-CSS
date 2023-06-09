@@ -14,3 +14,15 @@
 .color-rgba{
     color: rgba(10, 10, 10, 0.05);
 }
+
+.fondo{
+    background-color: #A1A6B4;
+    background-image: url("https://images.pexels.com/photos/2325446/pexels-photo-2325446.jpeg?auto=compress&cs=tinysrgb&w=300");
+    background-position: center center;
+}
+
+.fondo-interno{
+    background-color: #A1A6B4;
+    background-image: url("./estilos.css");
+    background-position: center center;
+}
