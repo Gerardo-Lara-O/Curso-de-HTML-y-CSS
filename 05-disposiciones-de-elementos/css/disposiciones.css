@@ -1,0 +1,24 @@
+.div-1, .div-2{
+    background-color: red;
+    /* ejemplo */
+    display: block;
+}
+
+.span-1{
+    background-color: aqua;
+    /* ejemplo  */
+    display: inline;
+    float: right;
+}
+
+.span-2{
+    background-color: aqua;
+    /* ejemplo  */
+    display: inline;
+    float: left;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
