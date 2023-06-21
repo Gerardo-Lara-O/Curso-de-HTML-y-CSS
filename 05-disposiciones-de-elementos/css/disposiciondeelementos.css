@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.contenedor{
+    background-color: bisque;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.cabeza{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 5rem;
+
+}
+
+.galeria{
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    position: absolute;
+}
+
+.galeria-img{
+    width: 300px;
+    background-color: bisque;
+    opacity: 1;
+}
+
+.galeria-img:hover{
+    opacity: .6;
+    cursor: pointer;
+}
